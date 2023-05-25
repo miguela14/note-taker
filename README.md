@@ -44,3 +44,7 @@ Express.js: Fast, unopinionated, minimalist web framework for Node.js.
 path: Node.js module for working with file and directory paths.
 fs: Node.js module for interacting with the file system.
 uuid: Node.js module for generating unique IDs.
+
+[https://drive.google.com/file/d/1nSO0j-ZPiVa_AxnvYggMl0DfifPOr4Sd/view]
+
+[https://github.com/miguela14/note-taker]
